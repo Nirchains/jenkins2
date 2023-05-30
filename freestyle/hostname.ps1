@@ -1,0 +1,2 @@
+Write-Host "Gighub!"
+hostname
